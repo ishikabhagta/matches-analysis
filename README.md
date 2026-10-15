@@ -1,4 +1,4 @@
-#movie-analysis
+#matches-analysis
 movie data analysis project using Python, PostgreSQL,  and Power BI.
 This project focuses on analyzing movie data using Python, PostgreSQL, and Power BI to explore data and gain meaningful insights.
 
