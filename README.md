@@ -30,3 +30,8 @@ Project Objectives
  Author
 
 Created as a data analysis learning project.
+
+
+#Power BI Dashboard
+<img width="1331" height="747" alt="Screenshot 2026-10-15 150953" src="https://github.com/user-attachments/assets/e0280aa1-a5f5-4baf-ab20-4cd9b4adc53b" />
+
